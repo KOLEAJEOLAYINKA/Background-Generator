@@ -3,4 +3,4 @@ Using JavaScript, to build an interactive web-page that allows you to generate g
 
 [https://koleajeolayinka.github.io/Background-Generator/](https://koleajeolayinka.github.io/Background-Generator/)
 
-[Demo video](assert/BackgroundGenerator.mp4)
+[Video Demo](assert/BackgroundGenerator.mp4)
