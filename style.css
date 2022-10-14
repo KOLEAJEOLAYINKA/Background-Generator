@@ -1,11 +1,12 @@
 body {
-    /* padding: auto 0; */
+    padding: auto 0;
     font-family: 'Raleway', sans-serif;
     color: rgba(0, 0, 0, .5);
     /* text-align: center; */
     text-transform: uppercase;
     /* background-image: linear-gradient(direction, color-stop1, color-stop2, ...); */
     background-image: linear-gradient(to right, red, yellow);
+    max-width: 100%;
 
 
 }
@@ -16,21 +17,21 @@ body {
 
 h1 {
     /* font: 600 3.5em 'Raleway', sans-serif; */
-    font-size: 300%;
-    letter-spacing: .3em;
-    width: 100%;
+    font-size: 20px;
+    /* letter-spacing: .3; */
+    width: 4vw;
 
 
 }
 
 .textcolorBlock {
     border: 2px solid rgb(0, 0, 0);
-    width: 50%;
+    width: 0.5fr;
 }
 
 .BgBlock {
     border: 2px solid rgb(0, 0, 0);
-    width: 50%;
+    width: 0.5fr;
 
 
 }
@@ -39,6 +40,8 @@ h2 {
 
 
     letter-spacing: .2em;
+    width: 20vw;
+
 }
 
 h3 {
