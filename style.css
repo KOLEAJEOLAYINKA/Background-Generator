@@ -1,7 +1,11 @@
 body {
     padding: auto 0;
     font-family: 'Raleway', sans-serif;
+<<<<<<< HEAD
     color: rgb(46, 42, 41);
+=======
+     color: rgb(73, 21, 3);
+>>>>>>> ResponsiveUpdated
     /* text-align: center; */
     text-transform: uppercase;
     /* background-image: linear-gradient(direction, color-stop1, color-stop2, ...); */
